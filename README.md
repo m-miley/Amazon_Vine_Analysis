@@ -10,6 +10,9 @@
 
 Analyze Amazon reviews written by members of the paid Amazon Vine program.  RDS instance created on Amazon Web Services with a bucket containing stored data.  Data is extracted from AWS and transformed using PySpark in a Google Colab notebook.  The data is then loaded to a PostgreSQL server that we created and connected with our AWS RDS instance using pgAdmin4.  Lastly, five star review percentages are calculated for both paid and unpaid categories.
 
+![Screen Shot 2022-07-08 at 10 04 04 PM](https://user-images.githubusercontent.com/100544761/178089261-f13402d1-2afb-4094-a5f0-7b7803f47965.png)
+
+
 ## Results
 
 1. How many Vine reviews and non-Vine reviews were there?
