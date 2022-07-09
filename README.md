@@ -33,3 +33,10 @@ Of the reviews with votes over 20, and with helpful vote percentage more than 50
     - Five Star Review Percentages for Unverified Purchases:  57.95%
 
 It looks like there are 5% more five star reviews for verified purchases which may suggest a slight bias.  However, these two numbers are within a small percentage of difference resulting in no concrete evidence to accept this as a strong indication.
+
+Furthermore, I would like to point out that the Vine to non-Vine review ratio is extremely low: 
+    
+    - Vine Review Percentage:  0.27%
+    - Non-Vine Review Percentage:  99.73%
+
+Our client should look at ways to increase Vine membership.  Let's get this over to marketing and see what they can do. 
