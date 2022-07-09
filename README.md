@@ -43,5 +43,5 @@ Our client should look at ways to increase Vine membership.  Let's get this over
 
 ### Contact
 
-mrmileyy@gmail.com
+mrmileyy@gmail.com<br>
 [LinkedIn](https://www.linkedin.com/in/mileymarshall/)
