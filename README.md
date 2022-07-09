@@ -27,7 +27,7 @@ Analyze Amazon reviews written by members of the paid Amazon Vine program.  RDS 
 
 ## Summary
 
-Of the reviews with votes over 20, and with helpful vote percentage more than 50%, both Vine and non-Vine 5 star review percentages were just over 50%.  This indicates of course that half of the transactions led to perfectly satisfied customer experiences.  That there is no significant difference in percentages indicates that regardless of Vine and non-Vine status, reviews were applied evenly resulting in no evidence to suggest positivity bias based on the Vine program. We could of course cluster reviews of other rating values for comparison, however there may be many other variables contributing to ratings. We have limited data categories to provide insight, but I would suggest comparing ratings in the dichotomous category of verified purchases for possible bias. I actually took the liberty to do this and results were as follows:  
+Of the reviews with votes over 20, and with helpful vote percentage more than 50%, both Vine and non-Vine 5 star review percentages were just over 50%.  This indicates of course that half of the transactions led to perfectly satisfied customer experiences and that there is no significant difference in percentages regardless of Vine and non-Vine status.  Reviews were applied evenly, resulting in no evidence to suggest positivity bias based on the Vine program. On another hand, we could of course cluster reviews of other rating values for comparison, however there may be many other variables contributing to ratings. We have limited data categories to provide insight, but I would suggest comparing ratings in the dichotomous category of verified purchases for possible bias. I actually took the liberty to do this and results were as follows:  
 
     - Five Star Review Percentages for Verified Purchases:  62.92%
     - Five Star Review Percentages for Unverified Purchases:  57.95%
@@ -40,3 +40,8 @@ Furthermore, I would like to point out that the Vine to non-Vine review ratio is
     - Non-Vine Review Percentage:  99.73%
 
 Our client should look at ways to increase Vine membership.  Let's get this over to marketing and see what they can do. 
+
+### Contact
+
+mrmileyy@gmail.com
+[LinkedIn](https://www.linkedin.com/in/mileymarshall/)
